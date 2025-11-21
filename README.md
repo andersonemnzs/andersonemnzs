@@ -28,13 +28,13 @@
 
 ### 🛠 Habilidades Técnicas em Desenvolvimento:
 - **Linguagens:** Python, SQL
-- **Ferramentas:** Power BI, Pandas, Jupyter Notebook
+- **Ferramentas:** Power BI, Pandas
 - **Conceitos:** Análise de Dados, Machine Learning, Visualização de Dados
 
 ### 📈 Formação Complementar:
 - **Cientista de Dados** - Centro Universitário Frias Brito/Atlântico Avanti (Previsão: jan/2026)
 - **Gestão Tributária** - UNI7 (Dez/2022)
-- **Administração de Empresas** - UNI7 (2018-2025)
+- **Administração de Empresas** - UNI7 (jun/2025)
 
 ### 🎯 Objetivo Profissional:
 Unir minha expertise em gestão financeira e processos internacionais com habilidades técnicas em análise de dados para criar soluções data-driven que otimizem resultados organizacionais.
